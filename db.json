@@ -2,14 +2,16 @@
   "tenders": [
     {
       "id": 1,
-      "title": "Contoh Tender",
+      "title": "Contoh Tender Pertama",
+      "description": "Pengadaan laptop untuk sekolah",
       "status": "open"
     }
   ],
   "announcements": [
     {
       "id": 1,
-      "title": "Contoh Pengumuman"
+      "title": "Pengumuman Percobaan",
+      "content": "Ini contoh pengumuman"
     }
   ],
   "users": [
