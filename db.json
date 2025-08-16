@@ -1,6 +1,17 @@
 {
-  "tenders": [],
-  "announcements": [],
+  "tenders": [
+    {
+      "id": 1,
+      "title": "Contoh Tender",
+      "status": "open"
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Contoh Pengumuman"
+    }
+  ],
   "users": [
     {
       "id": 1,
