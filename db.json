@@ -1,17 +1,11 @@
 {
-  "tenders": [
+  "tenders": [],
+  "announcements": [],
+  "admins": [
     {
       "id": 1,
-      "title": "Pengadaan Laptop",
-      "description": "Untuk kebutuhan sekolah",
-      "status": "open"
-    }
-  ],
-  "announcements": [
-    {
-      "id": 1,
-      "title": "Pengumuman Penting",
-      "content": "Sistem LPSE resmi diluncurkan"
+      "username": "admin",
+      "password": "admin123" // Gunakan password yang di-hash di production!
     }
   ]
 }
